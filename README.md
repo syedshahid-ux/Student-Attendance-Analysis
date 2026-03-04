@@ -187,14 +187,42 @@ No backend server setup is required.
 Add screenshots such as:
 
 * Login Page
-
   <img width="840" height="433" alt="image" src="https://github.com/user-attachments/assets/ece631df-3ebe-4266-a098-4453ff4e9473" />
 
 * Teacher Dashboard
+ <img width="756" height="430" alt="image" src="https://github.com/user-attachments/assets/6aced4d1-a910-4f63-b74d-83a103624932" />
+
+
 * Admin Panel
+  Admin Dashboard
+<img width="814" height="431" alt="image" src="https://github.com/user-attachments/assets/ab896e2a-5be4-46a2-a4fe-d7aab9a7f568" />
+
+*Admin Can Check student attendance status 
+<img width="732" height="426" alt="image" src="https://github.com/user-attachments/assets/fb15d8ae-c4ba-4741-a763-d70ffd361cf1" />
+
+*Admin can Manage students
+<img width="725" height="430" alt="image" src="https://github.com/user-attachments/assets/94e542d5-533f-44af-8d82-1c1d9541f9df" />
+
+*Admmin can edit student attendance
+<img width="749" height="422" alt="image" src="https://github.com/user-attachments/assets/30e091da-a793-4c11-929a-b995308ea17f" />
+
 * Student Dashboard
+  <img width="717" height="431" alt="image" src="https://github.com/user-attachments/assets/d9cfff75-09ad-42d2-bb9c-48b868fb98f3" />
+  
 * Attendance Charts
+  7-Day Attendance Trend
+  <img width="298" height="135" alt="image" src="https://github.com/user-attachments/assets/ca99e089-ea9d-4f8d-baab-d902dee6df42" />
+
+*Class Distribution
+<img width="298" height="135" alt="image" src="https://github.com/user-attachments/assets/e85a23f9-935a-4e03-b851-488fc5655aaa" />
+
+*Subject Performance
+<img width="298" height="135" alt="image" src="https://github.com/user-attachments/assets/e557103e-fa44-41d6-af14-bf69c885375c" />
+  
 * Prediction Output
+  
+  <img width="798" height="425" alt="image" src="https://github.com/user-attachments/assets/39d5a16e-845f-4e6b-9525-3f69d3cb8d69" />
+
 
 ---
 
@@ -233,5 +261,5 @@ You can test the system by:
 
 ## Author
 
-Developed as an academic project for demonstrating attendance management and analytics using modern web technologies.
+Developed as an internship project for demonstrating attendance management and analytics using modern web technologies.
 
