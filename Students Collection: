@@ -1,0 +1,23 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "Aarav Sharma",
+      "email": "aarav@school.edu",
+      "class": "10-A",
+      "phone": "9876543210",
+      "parent": "Rajesh Sharma",
+      "parentPhone": "9876543211"
+    },
+    {
+      "id": "S002",
+      "name": "Vihaan Verma",
+      "email": "vihaan@school.edu",
+      "class": "10-A",
+      "phone": "9876543212",
+      "parent": "Sunil Verma",
+      "parentPhone": "9876543213"
+    }
+    // ... 100 students total
+  ]
+}
