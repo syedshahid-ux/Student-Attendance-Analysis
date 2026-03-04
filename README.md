@@ -184,7 +184,7 @@ No backend server setup is required.
 
 ## Screenshots
 
-Add screenshots such as:
+screenshots such as:
 
 * Login Page
   <img width="840" height="433" alt="image" src="https://github.com/user-attachments/assets/ece631df-3ebe-4266-a098-4453ff4e9473" />
