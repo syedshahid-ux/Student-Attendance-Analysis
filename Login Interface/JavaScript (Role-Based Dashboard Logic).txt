@@ -1,0 +1,19 @@
+JavaScript (Role-Based Dashboard Logic)
+function login(){
+
+let role = document.getElementById("role").value;
+let dashboard = document.getElementById("dashboard");
+
+if(role === "admin"){
+dashboard.innerHTML = "<h3>Admin Dashboard</h3><p>Manage students and view reports</p>";
+}
+
+else if(role === "teacher"){
+dashboard.innerHTML = "<h3>Teacher Dashboard</h3><p>Mark attendance and update records</p>";
+}
+
+else if(role === "student"){
+dashboard.innerHTML = "<h3>Student Dashboard</h3><p>View attendance percentage and analysis</p>";
+}
+
+}
