@@ -1,0 +1,37 @@
+<h2>Attendance Marking</h2>
+
+<label>Select Class:</label>
+<select id="class">
+<option>BCA 1</option>
+<option>BCA 2</option>
+</select>
+
+<table border="1">
+<tr>
+<th>Student Name</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>Rahul</td>
+<td>
+<select id="s1">
+<option>Present</option>
+<option>Absent</option>
+</select>
+</td>
+</tr>
+
+<tr>
+<td>Aisha</td>
+<td>
+<select id="s2">
+<option>Present</option>
+<option>Absent</option>
+</select>
+</td>
+</tr>
+
+</table>
+
+<button onclick="saveAttendance()">Save Attendance</button>

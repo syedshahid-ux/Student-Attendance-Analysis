@@ -1,0 +1,12 @@
+function saveAttendance(){
+
+let attendance = {
+Rahul: document.getElementById("s1").value,
+Aisha: document.getElementById("s2").value
+};
+
+localStorage.setItem("attendanceData", JSON.stringify(attendance));
+
+alert("Attendance Saved Successfully");
+
+}
