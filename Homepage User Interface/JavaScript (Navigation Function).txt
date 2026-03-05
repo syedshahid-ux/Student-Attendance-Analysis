@@ -1,0 +1,17 @@
+function openPage(page){
+
+let content = document.getElementById("content");
+
+if(page === "attendance"){
+content.innerHTML = "<h2>Attendance Module</h2><p>Mark and manage student attendance.</p>";
+}
+
+else if(page === "reports"){
+content.innerHTML = "<h2>Reports Module</h2><p>View attendance reports and statistics.</p>";
+}
+
+else if(page === "analytics"){
+content.innerHTML = "<h2>Analytics Module</h2><p>Analyze attendance trends and performance.</p>";
+}
+
+}
